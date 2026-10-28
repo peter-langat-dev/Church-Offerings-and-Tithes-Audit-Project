@@ -91,7 +91,7 @@ To verify that money collected is completely recorded, deposited intact, and pro
 ##### 06/11/2025 | Special offering | Ksh. 60,000 | Ksh. 60,000 | Confirmed late | Late deposit
 
 
-## Finding
+## Findings
 ### Finding 1 : Offerings deposits after several days
 ### Criteria : 
 ##### • Collections should be deposited promptly and should remain under appropriate dual custody until deposit.
@@ -100,7 +100,7 @@ To verify that money collected is completely recorded, deposited intact, and pro
 ### Risk: 
 ##### • cash may be lost, stolen or used temporarily before being deposited.
 ### Recomendations:
-#### • Require deposits on the same day or next business day. Where this is not possible, two authorized people should secure the funds in a restricted safe and document the reason for the delay.
+##### • Require deposits on the same day or next business day. Where this is not possible, two authorized people should secure the funds in a restricted safe and document the reason for the delay.
 
 
 ### Finding 2 : Only one person counted the offering
